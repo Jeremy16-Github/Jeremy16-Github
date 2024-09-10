@@ -1,9 +1,17 @@
 ## Hi there 👋
+![servidor-sql](https://github.com/user-attachments/assets/d9a5a640-de73-4770-a40c-840ec93b212c)
+![php](https://github.com/user-attachments/assets/0222c24b-873c-4c09-ad70-e90a3bd9448a)
+![mysql](https://github.com/user-attachments/assets/00d194aa-7820-4f31-ab80-5af0e5a332c0)
+![html-5](https://github.com/user-attachments/assets/a535caa7-26da-46f1-8899-9167b02af696)
+![css-3](https://github.com/user-attachments/assets/6ce4cb29-eae8-43e0-8a61-bab92948bd71)
+![js](https://github.com/user-attachments/assets/a2219e06-ebdd-47b3-830a-3aed0c7db3a4)
+![piton](https://github.com/user-attachments/assets/a4dcc65d-c6c1-48ed-b4cf-6359017cbe85)
 
 <!--
 **Jeremy16-Github/Jeremy16-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![servidor-sql](https://github.com/user-attachments/assets/183feadf-2344-4186-a4ef-37d6e81fb955)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
